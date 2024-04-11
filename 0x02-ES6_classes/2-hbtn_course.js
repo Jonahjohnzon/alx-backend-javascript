@@ -34,7 +34,7 @@ class HolbertonCourse {
     }
   
     /**
-     * @param {Array of string} students
+     * @param {Array} students
      */
     set students(students) {
       if (students instanceof Array) {
